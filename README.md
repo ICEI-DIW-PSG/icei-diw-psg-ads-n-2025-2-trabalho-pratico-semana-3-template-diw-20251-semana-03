@@ -8,9 +8,9 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
+- Nome: Ana Luiza Gomes Rodrigues
+- Matricula: 902081
+- Proposta de projeto escolhida: 
 - Breve descrição sobre seu projeto:
 
 

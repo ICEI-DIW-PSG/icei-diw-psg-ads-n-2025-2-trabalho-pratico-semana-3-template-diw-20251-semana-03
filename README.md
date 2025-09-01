@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vecUq_Cz)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=20141109&assignment_repo_type=AssignmentRepo)
 # Trabalho Prático - Semana 03
 
 Dessa vez, vamos escolher uma proposta de projeto para trabalhar.
@@ -8,17 +10,17 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:Arthur Nunes linhares
+- Matricula:856984
+- Proposta de projeto escolhida:curiosidades e traduções de musicas de bandas 
+- Breve descrição sobre seu projeto:um projeto de fâ para fã para compartilhar curiosidades e interpretações sobre letras e significados de algun sons
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](<public/imagens/WhatsApp Image 2025-08-30 at 18.18.19.jpeg>)
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+[text](README.md) ![text](public/imagens/image.png)
